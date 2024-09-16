@@ -2,9 +2,13 @@
 
 <b>V7 na área, voando mais q avião, estudante do curso de informatica do senai</b>.
 
+# Unidades Curriculares
+## Concluíds
+- [x] Lógica de Programação
+
 <hr>
 
-- <b>Linguagens:</b> C#, Python e Ruby 
+- <b>Linguagens:</b> C#
 - <b>Frameworks:</b> Angular, Bootstrap, Ruby On Rails e Zurb Foundation
 - <b>Ambiente:</b> Docker e Kubernetes
 - <b>Versionamento:</b> Git e Azure Repos DevOps
