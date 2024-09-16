@@ -1,6 +1,6 @@
 # _EAI_ ✌
 
-<b>Aqui é o Vini, o V7, estudante do curso de informatica do senai</b>.
+<b>V7 na área, voando mais q avião, estudante do curso de informatica do senai</b>.
 
 <hr>
 
