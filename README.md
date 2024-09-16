@@ -3,7 +3,7 @@
 <b>V7 na área, voando mais q avião, estudante do curso de informatica do senai</b>.
 
 # Unidades Curriculares
-## Concluíds
+## Concluída
 - [x] Lógica de Programação
 
 <hr>
