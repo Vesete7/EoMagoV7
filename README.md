@@ -2,13 +2,13 @@
 
 <b>V7 na área, voando mais q avião, estudante do curso de informatica do senai</b>.
 
-# Unidades Curriculares
-## Concluída
+# -- Unidades Curriculares --
+## _Concluída_
 - [x] LÓGICA DE PROGRAMAÇÃO
 - [x] FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO
 - [x] INFORMÁTICA APLICADA
 - [x] COMUNICAÇÃO E REDAÇÃO TÉCNICA
-## Em Progresso
+## _Em Progresso_
 - [ ] PROJETO DE INOVAÇÃO: PROCESSO CRIATIVO – INDÚSTRIA 4.0, LEAN E IDEAÇÃO
 - [ ] PROJETO DE INTERFACE WEB
 - [ ] PROGRAMAÇÃO CLIENT-SIDE
