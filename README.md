@@ -1,4 +1,4 @@
-# _EAI_ ✌
+# _EAI_ ✌🧙‍♂️
 
 <b>V7 na área, voando mais q avião, estudante do curso de informatica do senai</b>.
 
